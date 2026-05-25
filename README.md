@@ -1,6 +1,6 @@
 # API CALL
 
-Author: Ashir Djasdjo VS Solution
+Author: Jofil R. Operaña
 
 ## Project Title: API Call
 
@@ -60,15 +60,15 @@ GET http://127.0.0.1:8000/api/students
 ### Retrieve a specific student record:
 
 ```http
-GET http://127.0.0.1:8000/api/students/7
+GET http://127.0.0.1:8000/api/students/5
 ```
 
-Replace `7` with the desired student ID based on your video.
+Replace `5` with the desired student ID based on your video.
 
 ---
 
 ## Demo Tutorial
 
-Watch the demo tutorial here: [Demo Tutorial Video](#)
+[Demo Tutorial Video](#)
 
 The tutorial demonstrates how to test Laravel API endpoints using Postman.
